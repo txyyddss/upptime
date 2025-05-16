@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -46,13 +46,31 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 120,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-05-16": 92
+      "2025-05-16": 96
     }
+  },
+  {
+    "name": "Webmap (No proxy)",
+    "url": "http://mtmc.1919801.xyz:8123",
+    "icon": "https://icons.duckduckgo.com/ip3/mtmc.1919801.xyz.ico",
+    "slug": "webmap-no-proxy",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]

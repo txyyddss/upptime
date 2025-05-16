@@ -3,10 +3,16 @@ owner: txyyddss # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: TX Service Index
+    url: https://1919801.xyz
   - name: Webmap(CF)
     url: https://map.1919801.xyz
+  - name: Webmap(ZT)
+    url: http://114.114.51.4:8123
+  - name: Game Server
+    check: "tcp-ping"
+    url: 114.114.51.4
+    port: 11451
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
     "status": "down",
-    "uptime": "42.09%",
-    "uptimeDay": "42.09%",
-    "uptimeWeek": "42.09%",
-    "uptimeMonth": "42.09%",
-    "uptimeYear": "42.09%",
+    "uptime": "36.21%",
+    "uptimeDay": "36.21%",
+    "uptimeWeek": "36.21%",
+    "uptimeMonth": "36.21%",
+    "uptimeYear": "36.21%",
     "time": 1736,
     "timeDay": 1736,
     "timeWeek": 1736,
     "timeMonth": 1736,
     "timeYear": 1736,
     "dailyMinutesDown": {
-      "2025-05-16": 42
+      "2025-05-16": 54
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "down",
-    "uptime": "86.12%",
-    "uptimeDay": "86.12%",
-    "uptimeWeek": "86.12%",
-    "uptimeMonth": "86.12%",
-    "uptimeYear": "86.12%",
-    "time": 434,
-    "timeDay": 434,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "status": "up",
+    "uptime": "29.36%",
+    "uptimeDay": "29.36%",
+    "uptimeWeek": "29.36%",
+    "uptimeMonth": "29.36%",
+    "uptimeYear": "29.36%",
+    "time": 418,
+    "timeDay": 418,
+    "timeWeek": 418,
+    "timeMonth": 418,
+    "timeYear": 418,
     "dailyMinutesDown": {
-      "2025-05-16": 1
+      "2025-05-16": 13
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
-    "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
-    "time": 443,
-    "timeDay": 443,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "status": "up",
+    "uptime": "39.52%",
+    "uptimeDay": "39.52%",
+    "uptimeWeek": "39.52%",
+    "uptimeMonth": "39.52%",
+    "uptimeYear": "39.52%",
+    "time": 362,
+    "timeDay": 362,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2025-05-16": 0
+      "2025-05-16": 12
     }
   }
 ]

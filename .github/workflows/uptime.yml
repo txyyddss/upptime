@@ -36,6 +36,11 @@ jobs:
         with:
           cf_zone_id: ${{ secrets.CF_ZONE_ID }}
           cf_api_token: ${{ secrets.CF_API_TOKEN }}
+      - name: ZeroTier
+        uses: zerotier/github-action@v1.0.1
+        with:
+          network_id: ${{ secrets.ZEROTIER_NETWORK_ID }}
+          auth_token: ${{ secrets.ZEROTIER_CENTRAL_TOKEN }}
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.40.1
         with:

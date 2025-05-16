@@ -44,9 +44,9 @@ jobs:
           auth_token: ${{ secrets.ZEROTIER_CENTRAL_TOKEN }}
       - name: ZTsettings
         run: |
-          zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowGlobal true
-          zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowManaged true
-          zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowDefault true
+          sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowGlobal true
+          sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowManaged true
+          sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowDefault true
 #      - name: Update template
 #        uses: upptime/uptime-monitor@v1.40.1
 #        with:

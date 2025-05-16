@@ -44,6 +44,7 @@ jobs:
           auth_token: ${{ secrets.ZEROTIER_CENTRAL_TOKEN }}
       - name: ZTsettings
         run: |
+          sudo zerotier-cli listnetworks
           sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowGlobal true
           sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowManaged true
           sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowDefault true

@@ -40,19 +40,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "down",
-    "uptime": "61.27%",
-    "uptimeDay": "61.27%",
-    "uptimeWeek": "61.27%",
-    "uptimeMonth": "61.27%",
-    "uptimeYear": "61.27%",
-    "time": 1690,
-    "timeDay": 1690,
-    "timeWeek": 1690,
-    "timeMonth": 1690,
-    "timeYear": 1690,
+    "status": "up",
+    "uptime": "60.76%",
+    "uptimeDay": "60.76%",
+    "uptimeWeek": "60.76%",
+    "uptimeMonth": "60.76%",
+    "uptimeYear": "60.76%",
+    "time": 1631,
+    "timeDay": 1631,
+    "timeWeek": 1631,
+    "timeMonth": 1631,
+    "timeYear": 1631,
     "dailyMinutesDown": {
-      "2025-05-16": 181
+      "2025-05-16": 185
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "down",
-    "uptime": "78.28%",
-    "uptimeDay": "78.28%",
-    "uptimeWeek": "78.28%",
-    "uptimeMonth": "78.28%",
-    "uptimeYear": "78.28%",
-    "time": 299,
-    "timeDay": 299,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "status": "up",
+    "uptime": "77.51%",
+    "uptimeDay": "77.51%",
+    "uptimeWeek": "77.51%",
+    "uptimeMonth": "77.51%",
+    "uptimeYear": "77.51%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-05-16": 87
+      "2025-05-16": 91
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
     "status": "up",
-    "uptime": "80.48%",
-    "uptimeDay": "80.48%",
-    "uptimeWeek": "80.48%",
-    "uptimeMonth": "80.48%",
-    "uptimeYear": "80.48%",
+    "uptime": "81.88%",
+    "uptimeDay": "81.88%",
+    "uptimeWeek": "81.88%",
+    "uptimeMonth": "81.88%",
+    "uptimeYear": "81.88%",
     "time": 377,
     "timeDay": 377,
     "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2025-05-16": 78
+      "2025-05-16": 73
     }
   }
 ]

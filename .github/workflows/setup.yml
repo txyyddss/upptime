@@ -27,6 +27,11 @@ jobs:
     name: Setup Upptime
     runs-on: ubuntu-latest
     steps:
+      - name: Bypass Cloudflare for GitHub Action
+        uses: xiaotianxt/bypass-cloudflare-for-github-action@v1.1.1
+        with:
+          cf_zone_id: ${{ secrets.CF_ZONE_ID }}
+          cf_api_token: ${{ secrets.CF_API_TOKEN }}
       - name: Checkout
         uses: actions/checkout@v4
         with:

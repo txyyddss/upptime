@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
     "status": "up",
-    "uptime": "35.76%",
-    "uptimeDay": "35.76%",
-    "uptimeWeek": "35.76%",
-    "uptimeMonth": "35.76%",
-    "uptimeYear": "35.76%",
+    "uptime": "39.39%",
+    "uptimeDay": "39.39%",
+    "uptimeWeek": "39.39%",
+    "uptimeMonth": "39.39%",
+    "uptimeYear": "39.39%",
     "time": 1736,
     "timeDay": 1736,
     "timeWeek": 1736,
     "timeMonth": 1736,
     "timeYear": 1736,
     "dailyMinutesDown": {
-      "2025-05-16": 42
+      "2025-05-16": 40
     }
   },
   {

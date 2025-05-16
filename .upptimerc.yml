@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Webmap
     url: https://map.1919801.xyz
 

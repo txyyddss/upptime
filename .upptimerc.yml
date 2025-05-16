@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Webmap
     url: https://map.1919801.xyz
+  - name: Webmap (No proxy)
+    url: http://mtmc.1919801.xyz:8123
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

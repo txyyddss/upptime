@@ -41,6 +41,13 @@ jobs:
         with:
           network_id: ${{ secrets.ZEROTIER_NETWORK_ID }}
           auth_token: ${{ secrets.ZEROTIER_CENTRAL_TOKEN }}
+      - name: ZTsettings
+        env: 
+          NWID: ${{ secrets.ZEROTIER_NETWORK_ID }}
+        run: |
+          sudo zerotier-cli set $NWID allowGlobal=1
+          sudo zerotier-cli set $NWID allowManaged=1
+          sudo zerotier-cli set $NWID allowDefault=1
       - name: Update response time
         uses: upptime/uptime-monitor@v1.40.1
         with:

@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
     "status": "down",
-    "uptime": "36.21%",
-    "uptimeDay": "36.21%",
-    "uptimeWeek": "36.21%",
-    "uptimeMonth": "36.21%",
-    "uptimeYear": "36.21%",
-    "time": 1736,
-    "timeDay": 1736,
-    "timeWeek": 1736,
-    "timeMonth": 1736,
-    "timeYear": 1736,
+    "uptime": "52.58%",
+    "uptimeDay": "52.58%",
+    "uptimeWeek": "52.58%",
+    "uptimeMonth": "52.58%",
+    "uptimeYear": "52.58%",
+    "time": 1699,
+    "timeDay": 1699,
+    "timeWeek": 1699,
+    "timeMonth": 1699,
+    "timeYear": 1699,
     "dailyMinutesDown": {
-      "2025-05-16": 54
+      "2025-05-16": 42
     }
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
     "status": "up",
-    "uptime": "29.36%",
-    "uptimeDay": "29.36%",
-    "uptimeWeek": "29.36%",
-    "uptimeMonth": "29.36%",
-    "uptimeYear": "29.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 418,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2025-05-16": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPV6 Update(DDNSGO)",
@@ -81,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
     "status": "up",
-    "uptime": "39.52%",
-    "uptimeDay": "39.52%",
-    "uptimeWeek": "39.52%",
-    "uptimeMonth": "39.52%",
-    "uptimeYear": "39.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 362,
     "timeWeek": 362,
     "timeMonth": 362,
     "timeYear": 362,
-    "dailyMinutesDown": {
-      "2025-05-16": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -43,11 +43,12 @@ jobs:
           network_id: ${{ secrets.ZEROTIER_NETWORK_ID }}
           auth_token: ${{ secrets.ZEROTIER_CENTRAL_TOKEN }}
       - name: ZTsettings
+        env: 
+          NWID: ${{ secrets.ZEROTIER_NETWORK_ID }}
         run: |
-          sudo zerotier-cli listnetworks
-          sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowGlobal true
-          sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowManaged true
-          sudo zerotier-cli set ${{ secrets.ZEROTIER_NETWORK_ID }} allowDefault true
+          sudo zerotier-cli set ${NWID} allowGlobal true
+          sudo zerotier-cli set ${NWID} allowManaged true
+          sudo zerotier-cli set ${NWID} allowDefault true
 #      - name: Update template
 #        uses: upptime/uptime-monitor@v1.40.1
 #        with:

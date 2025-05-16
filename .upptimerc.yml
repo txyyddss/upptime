@@ -13,6 +13,10 @@ sites:
     check: "tcp-ping"
     url: 114.114.51.4
     port: 11451
+  - name: Ipv6 Update(DDNSGO)
+    check: "tcp-ping"
+    url: 114.114.51.4
+    port: 9876
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,7 +25,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/txyyddss/upptime/master/static/img/icon.svg
   name: TX Status Page
-  introTitle: "Used a open-source uptime monitor and status page, powered entirely by GitHub and Cloudflare."
+  introTitle: "A status page powered entirely by GitHub and Cloudflare."
   introMessage: Welcome, also see [TX Index](https://1919801.xyz/).
   navbar:
     - title: Status

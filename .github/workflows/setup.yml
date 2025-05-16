@@ -46,9 +46,9 @@ jobs:
         env: 
           NWID: ${{ secrets.ZEROTIER_NETWORK_ID }}
         run: |
-          sudo zerotier-cli set ${NWID} allowGlobal true
-          sudo zerotier-cli set ${NWID} allowManaged true
-          sudo zerotier-cli set ${NWID} allowDefault true
+          sudo zerotier-cli set $NWID allowGlobal true
+          sudo zerotier-cli set $NWID allowManaged true
+          sudo zerotier-cli set $NWID allowDefault true
 #      - name: Update template
 #        uses: upptime/uptime-monitor@v1.40.1
 #        with:

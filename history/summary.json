@@ -22,9 +22,9 @@
     "url": "https://map.1919801.xyz/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/map.1919801.xyz.ico",
     "slug": "webmap-cf-ipv-6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1833,
     "timeMonth": 1833,
     "timeYear": 1833,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-17": 0
+    }
   },
   {
     "name": "Webmap(ZT)",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
     "status": "up",
-    "uptime": "54.26%",
-    "uptimeDay": "51.84%",
-    "uptimeWeek": "54.26%",
-    "uptimeMonth": "54.26%",
-    "uptimeYear": "54.26%",
+    "uptime": "55.59%",
+    "uptimeDay": "53.64%",
+    "uptimeWeek": "55.59%",
+    "uptimeMonth": "55.59%",
+    "uptimeYear": "55.59%",
     "time": 2113,
-    "timeDay": 2308,
+    "timeDay": 2365,
     "timeWeek": 2113,
     "timeMonth": 2113,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2025-05-17": 605,
+      "2025-05-17": 600,
       "2025-05-16": 265
     }
   },
@@ -62,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
     "status": "up",
-    "uptime": "62.24%",
-    "uptimeDay": "57.61%",
-    "uptimeWeek": "62.24%",
-    "uptimeMonth": "62.24%",
-    "uptimeYear": "62.24%",
+    "uptime": "63.38%",
+    "uptimeDay": "59.30%",
+    "uptimeWeek": "63.38%",
+    "uptimeMonth": "63.38%",
+    "uptimeYear": "63.38%",
     "time": 291,
-    "timeDay": 288,
+    "timeDay": 292,
     "timeWeek": 291,
     "timeMonth": 291,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-05-17": 525,
+      "2025-05-17": 521,
       "2025-05-16": 168
     }
   },
@@ -83,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
     "status": "up",
-    "uptime": "71.80%",
-    "uptimeDay": "69.13%",
-    "uptimeWeek": "71.80%",
-    "uptimeMonth": "71.80%",
-    "uptimeYear": "71.80%",
+    "uptime": "72.67%",
+    "uptimeDay": "69.37%",
+    "uptimeWeek": "72.67%",
+    "uptimeMonth": "72.67%",
+    "uptimeYear": "72.67%",
     "time": 318,
-    "timeDay": 313,
+    "timeDay": 285,
     "timeWeek": 318,
     "timeMonth": 318,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-05-17": 397,
+      "2025-05-17": 394,
       "2025-05-16": 121
     }
   }

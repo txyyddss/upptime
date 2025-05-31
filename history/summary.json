@@ -48,19 +48,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
-    "uptime": "61.69%",
-    "uptimeDay": "63.20%",
-    "uptimeWeek": "60.15%",
-    "uptimeMonth": "61.69%",
-    "uptimeYear": "61.69%",
+    "status": "down",
+    "uptime": "61.79%",
+    "uptimeDay": "63.07%",
+    "uptimeWeek": "60.32%",
+    "uptimeMonth": "61.79%",
+    "uptimeYear": "61.79%",
     "time": 2632,
     "timeDay": 1812,
     "timeWeek": 2194,
     "timeMonth": 2632,
     "timeYear": 2632,
     "dailyMinutesDown": {
-      "2025-05-31": 82,
+      "2025-05-31": 84,
       "2025-05-30": 549,
       "2025-05-29": 179,
       "2025-05-28": 413,
@@ -71,7 +71,7 @@
       "2025-05-23": 1262,
       "2025-05-22": 1277,
       "2025-05-21": 1239,
-      "2025-05-20": 48
+      "2025-05-20": 32
     }
   },
   {
@@ -79,19 +79,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "up",
-    "uptime": "70.89%",
-    "uptimeDay": "69.97%",
-    "uptimeWeek": "63.78%",
-    "uptimeMonth": "70.89%",
-    "uptimeYear": "70.89%",
+    "status": "down",
+    "uptime": "70.99%",
+    "uptimeDay": "69.91%",
+    "uptimeWeek": "63.96%",
+    "uptimeMonth": "70.99%",
+    "uptimeYear": "70.99%",
     "time": 295,
     "timeDay": 251,
     "timeWeek": 287,
     "timeMonth": 295,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-05-31": 24,
+      "2025-05-31": 25,
       "2025-05-30": 509,
       "2025-05-29": 151,
       "2025-05-28": 354,
@@ -101,7 +101,7 @@
       "2025-05-24": 965,
       "2025-05-23": 1060,
       "2025-05-22": 1151,
-      "2025-05-21": 59
+      "2025-05-21": 42
     }
   },
   {
@@ -109,14 +109,14 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
-    "status": "up",
-    "uptime": "77.52%",
-    "uptimeDay": "78.90%",
-    "uptimeWeek": "78.72%",
-    "uptimeMonth": "77.52%",
-    "uptimeYear": "77.52%",
+    "status": "down",
+    "uptime": "77.69%",
+    "uptimeDay": "79.95%",
+    "uptimeWeek": "78.90%",
+    "uptimeMonth": "77.69%",
+    "uptimeYear": "77.69%",
     "time": 323,
-    "timeDay": 303,
+    "timeDay": 310,
     "timeWeek": 317,
     "timeMonth": 323,
     "timeYear": 323,
@@ -131,7 +131,7 @@
       "2025-05-24": 865,
       "2025-05-23": 697,
       "2025-05-22": 950,
-      "2025-05-21": 727
+      "2025-05-21": 694
     }
   }
 ]

@@ -12,8 +12,6 @@ sites:
     check: "tcp-ping"
     url: 114.114.51.4
     port: 11451
-  - name: Game server(IPV6API)
-    url: https://api.mcsrvstat.us/simple/mtmc.1919801.xyz:11451
   - name: IPV6 Update(DDNSGO)
     check: "tcp-ping"
     url: 114.114.51.4

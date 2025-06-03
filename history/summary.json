@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/map.1919801.xyz.ico",
     "slug": "webmap-cf-ipv-6",
     "status": "up",
-    "uptime": "89.56%",
+    "uptime": "89.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.76%",
-    "uptimeMonth": "89.56%",
-    "uptimeYear": "89.56%",
+    "uptimeMonth": "89.60%",
+    "uptimeYear": "89.60%",
     "time": 2057,
     "timeDay": 841,
     "timeWeek": 784,
@@ -50,18 +50,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
-    "uptime": "72.03%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "80.24%",
-    "uptimeMonth": "72.03%",
-    "uptimeYear": "72.03%",
+    "status": "down",
+    "uptime": "72.33%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "80.22%",
+    "uptimeMonth": "72.33%",
+    "uptimeYear": "72.33%",
     "time": 2495,
     "timeDay": 1347,
     "timeWeek": 1791,
     "timeMonth": 2495,
     "timeYear": 2495,
     "dailyMinutesDown": {
+      "2025-06-03": 2,
       "2025-06-02": 23,
       "2025-06-01": 137,
       "2025-05-31": 582,
@@ -73,7 +74,7 @@
       "2025-05-25": 1226,
       "2025-05-24": 1157,
       "2025-05-23": 1262,
-      "2025-05-22": 898
+      "2025-05-22": 845
     }
   },
   {
@@ -81,18 +82,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "up",
-    "uptime": "75.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "78.38%",
-    "uptimeMonth": "75.54%",
-    "uptimeYear": "75.54%",
+    "status": "down",
+    "uptime": "75.86%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "78.37%",
+    "uptimeMonth": "75.86%",
+    "uptimeYear": "75.86%",
     "time": 295,
     "timeDay": 237,
     "timeWeek": 286,
     "timeMonth": 295,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2025-06-03": 1,
       "2025-06-01": 634,
       "2025-05-31": 495,
       "2025-05-30": 509,
@@ -103,7 +105,7 @@
       "2025-05-25": 933,
       "2025-05-24": 965,
       "2025-05-23": 1060,
-      "2025-05-22": 151
+      "2025-05-22": 93
     }
   },
   {
@@ -111,18 +113,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
-    "status": "up",
-    "uptime": "82.55%",
-    "uptimeDay": "98.54%",
+    "status": "down",
+    "uptime": "82.83%",
+    "uptimeDay": "98.53%",
     "uptimeWeek": "90.96%",
-    "uptimeMonth": "82.55%",
-    "uptimeYear": "82.55%",
+    "uptimeMonth": "82.83%",
+    "uptimeYear": "82.83%",
     "time": 323,
     "timeDay": 238,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2025-06-03": 0,
       "2025-06-02": 21,
       "2025-05-31": 335,
       "2025-05-30": 230,
@@ -134,7 +137,7 @@
       "2025-05-24": 865,
       "2025-05-23": 697,
       "2025-05-22": 950,
-      "2025-05-21": 124
+      "2025-05-21": 71
     }
   }
 ]

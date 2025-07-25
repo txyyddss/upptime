@@ -28,7 +28,7 @@
     "uptime": "93.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.52%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "93.99%",
     "time": 3016,
     "timeDay": 210,
@@ -125,19 +125,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
-    "status": "up",
-    "uptime": "93.61%",
-    "uptimeDay": "89.50%",
-    "uptimeWeek": "54.08%",
-    "uptimeMonth": "85.24%",
-    "uptimeYear": "93.61%",
+    "status": "down",
+    "uptime": "93.71%",
+    "uptimeDay": "89.40%",
+    "uptimeWeek": "54.07%",
+    "uptimeMonth": "85.48%",
+    "uptimeYear": "93.71%",
     "time": 302,
     "timeDay": 268,
     "timeWeek": 291,
     "timeMonth": 276,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-07-25": 150,
+      "2025-07-25": 152,
       "2025-07-24": 217,
       "2025-07-23": 450,
       "2025-07-22": 1361,
@@ -149,8 +149,7 @@
       "2025-07-16": 435,
       "2025-07-15": 362,
       "2025-07-14": 385,
-      "2025-07-13": 145,
-      "2025-07-12": 106
+      "2025-07-13": 145
     }
   },
   {
@@ -192,7 +191,7 @@
     "uptimeYear": "93.45%",
     "time": 5824,
     "timeDay": 13253,
-    "timeWeek": 9201,
+    "timeWeek": 9087,
     "timeMonth": 5824,
     "timeYear": 5824,
     "dailyMinutesDown": {
@@ -212,18 +211,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-azure-hk",
     "status": "down",
-    "uptime": "65.40%",
-    "uptimeDay": "65.40%",
-    "uptimeWeek": "65.40%",
-    "uptimeMonth": "65.40%",
-    "uptimeYear": "65.40%",
+    "uptime": "63.63%",
+    "uptimeDay": "63.63%",
+    "uptimeWeek": "63.63%",
+    "uptimeMonth": "63.63%",
+    "uptimeYear": "63.63%",
     "time": 195,
     "timeDay": 195,
     "timeWeek": 195,
     "timeMonth": 195,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-07-25": 162
+      "2025-07-25": 175
     }
   }
 ]

@@ -63,19 +63,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
-    "uptime": "91.65%",
-    "uptimeDay": "77.19%",
-    "uptimeWeek": "43.46%",
-    "uptimeMonth": "80.67%",
-    "uptimeYear": "91.65%",
+    "status": "down",
+    "uptime": "91.67%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "43.53%",
+    "uptimeMonth": "80.71%",
+    "uptimeYear": "91.67%",
     "time": 2571,
-    "timeDay": 2789,
-    "timeWeek": 2162,
+    "timeDay": 2886,
+    "timeWeek": 2050,
     "timeMonth": 2458,
     "timeYear": 2571,
     "dailyMinutesDown": {
-      "2025-07-25": 322,
+      "2025-07-25": 324,
       "2025-07-24": 459,
       "2025-07-23": 593,
       "2025-07-22": 1425,
@@ -86,7 +86,7 @@
       "2025-07-17": 175,
       "2025-07-16": 877,
       "2025-07-15": 605,
-      "2025-07-14": 324
+      "2025-07-14": 303
     }
   },
   {
@@ -97,12 +97,12 @@
     "status": "up",
     "uptime": "93.39%",
     "uptimeDay": "86.72%",
-    "uptimeWeek": "53.33%",
+    "uptimeWeek": "53.42%",
     "uptimeMonth": "84.70%",
     "uptimeYear": "93.39%",
     "time": 289,
     "timeDay": 292,
-    "timeWeek": 284,
+    "timeWeek": 285,
     "timeMonth": 268,
     "timeYear": 289,
     "dailyMinutesDown": {
@@ -125,12 +125,12 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
-    "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "86.85%",
-    "uptimeWeek": "54.11%",
-    "uptimeMonth": "85.47%",
-    "uptimeYear": "93.72%",
+    "status": "down",
+    "uptime": "93.74%",
+    "uptimeDay": "86.82%",
+    "uptimeWeek": "54.24%",
+    "uptimeMonth": "85.53%",
+    "uptimeYear": "93.74%",
     "time": 301,
     "timeDay": 239,
     "timeWeek": 285,
@@ -149,7 +149,7 @@
       "2025-07-16": 435,
       "2025-07-15": 362,
       "2025-07-14": 385,
-      "2025-07-13": 109
+      "2025-07-13": 86
     }
   },
   {
@@ -211,18 +211,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-azure-hk",
     "status": "down",
-    "uptime": "47.89%",
-    "uptimeDay": "47.89%",
-    "uptimeWeek": "47.89%",
-    "uptimeMonth": "47.89%",
-    "uptimeYear": "47.89%",
+    "uptime": "46.89%",
+    "uptimeDay": "46.89%",
+    "uptimeWeek": "46.89%",
+    "uptimeMonth": "46.89%",
+    "uptimeYear": "46.89%",
     "time": 195,
     "timeDay": 195,
     "timeWeek": 195,
     "timeMonth": 195,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-07-25": 334
+      "2025-07-25": 347
     }
   }
 ]

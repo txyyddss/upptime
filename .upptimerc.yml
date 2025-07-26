@@ -22,8 +22,12 @@ sites:
     url: https://proxymy.1919801.xyz
   - name: VPS(Azure HK)
     check: "tcp-ping"
-    url: azhk.1919801.xyz
-    port: 36604
+    url: 52.175.26.30
+    port: 5124
+  - name: VPS(Bytevirt HK)
+    check: "tcp-ping"
+    url: bvhk.1919801.xyz
+    port: 443
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

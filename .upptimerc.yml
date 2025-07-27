@@ -28,6 +28,10 @@ sites:
     check: "tcp-ping"
     url: bvhk.1919801.xyz
     port: 443
+  - name: VPS(Bytevirt HK)
+    check: "tcp-ping"
+    url: azkr.1919801.xyz
+    port: 20183
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

@@ -63,19 +63,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
-    "uptime": "91.86%",
-    "uptimeDay": "60.40%",
-    "uptimeWeek": "50.69%",
-    "uptimeMonth": "80.77%",
-    "uptimeYear": "91.86%",
+    "status": "down",
+    "uptime": "91.91%",
+    "uptimeDay": "61.04%",
+    "uptimeWeek": "50.75%",
+    "uptimeMonth": "80.87%",
+    "uptimeYear": "91.91%",
     "time": 2519,
     "timeDay": 1658,
-    "timeWeek": 1805,
+    "timeWeek": 1814,
     "timeMonth": 2360,
     "timeYear": 2519,
     "dailyMinutesDown": {
-      "2025-07-27": 284,
+      "2025-07-27": 287,
       "2025-07-26": 523,
       "2025-07-25": 322,
       "2025-07-24": 459,
@@ -87,7 +87,7 @@
       "2025-07-18": 804,
       "2025-07-17": 175,
       "2025-07-16": 877,
-      "2025-07-15": 74
+      "2025-07-15": 29
     }
   },
   {
@@ -97,7 +97,7 @@
     "slug": "game-server-zt",
     "status": "up",
     "uptime": "93.62%",
-    "uptimeDay": "65.49%",
+    "uptimeDay": "65.54%",
     "uptimeWeek": "56.21%",
     "uptimeMonth": "84.94%",
     "uptimeYear": "93.62%",
@@ -126,19 +126,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
-    "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "71.65%",
+    "status": "down",
+    "uptime": "93.75%",
+    "uptimeDay": "72.39%",
     "uptimeWeek": "60.15%",
-    "uptimeMonth": "85.16%",
-    "uptimeYear": "93.72%",
+    "uptimeMonth": "85.23%",
+    "uptimeYear": "93.75%",
     "time": 299,
     "timeDay": 235,
     "timeWeek": 276,
     "timeMonth": 274,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-07-27": 221,
+      "2025-07-27": 223,
       "2025-07-26": 351,
       "2025-07-25": 188,
       "2025-07-24": 217,
@@ -151,7 +151,7 @@
       "2025-07-17": 71,
       "2025-07-16": 435,
       "2025-07-15": 362,
-      "2025-07-14": 63
+      "2025-07-14": 31
     }
   },
   {
@@ -231,18 +231,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-bytevirt-hk",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
-    "time": 181,
-    "timeDay": 180,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "uptime": "98.70%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 179,
+    "timeDay": 177,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-07-27": 21
+      "2025-07-27": 26
     }
   },
   {
@@ -251,18 +251,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-bytevirt-hk",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
-    "time": 181,
-    "timeDay": 180,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "uptime": "98.70%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 179,
+    "timeDay": 177,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-07-27": 21
+      "2025-07-27": 26
     }
   }
 ]

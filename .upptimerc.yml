@@ -22,8 +22,8 @@ sites:
     url: https://proxymy.1919801.xyz
   - name: VPS(AWS HK)
     check: "tcp-ping"
-    url: 43.199.29.4
-    port: 59181
+    url: awshk.1919801.xyz
+    port: 443
   - name: VPS(Bytevirt HK)
     check: "tcp-ping"
     url: bvhk.1919801.xyz

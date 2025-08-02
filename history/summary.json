@@ -66,19 +66,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
-    "uptime": "91.87%",
-    "uptimeDay": "29.77%",
-    "uptimeWeek": "52.31%",
-    "uptimeMonth": "79.18%",
-    "uptimeYear": "91.87%",
+    "status": "down",
+    "uptime": "91.89%",
+    "uptimeDay": "30.75%",
+    "uptimeWeek": "52.37%",
+    "uptimeMonth": "79.23%",
+    "uptimeYear": "91.89%",
     "time": 2533,
     "timeDay": 3265,
     "timeWeek": 2444,
     "timeMonth": 2422,
     "timeYear": 2533,
     "dailyMinutesDown": {
-      "2025-08-02": 503,
+      "2025-08-02": 505,
       "2025-08-01": 570,
       "2025-07-31": 247,
       "2025-07-30": 753,
@@ -91,7 +91,7 @@
       "2025-07-23": 593,
       "2025-07-22": 1425,
       "2025-07-21": 1131,
-      "2025-07-20": 167
+      "2025-07-20": 143
     }
   },
   {
@@ -99,19 +99,19 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "up",
-    "uptime": "93.23%",
-    "uptimeDay": "50.45%",
-    "uptimeWeek": "61.92%",
-    "uptimeMonth": "82.67%",
-    "uptimeYear": "93.23%",
+    "status": "down",
+    "uptime": "93.35%",
+    "uptimeDay": "51.48%",
+    "uptimeWeek": "61.97%",
+    "uptimeMonth": "82.99%",
+    "uptimeYear": "93.35%",
     "time": 285,
     "timeDay": 300,
     "timeWeek": 264,
     "timeMonth": 267,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-08-02": 298,
+      "2025-08-02": 299,
       "2025-08-01": 449,
       "2025-07-31": 234,
       "2025-07-30": 516,
@@ -123,8 +123,7 @@
       "2025-07-24": 365,
       "2025-07-23": 435,
       "2025-07-22": 1397,
-      "2025-07-21": 1130,
-      "2025-07-20": 69
+      "2025-07-21": 1059
     }
   },
   {
@@ -132,12 +131,12 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ipv-6-update-ddnsgo",
-    "status": "up",
-    "uptime": "93.39%",
-    "uptimeDay": "68.85%",
+    "status": "down",
+    "uptime": "93.46%",
+    "uptimeDay": "69.93%",
     "uptimeWeek": "69.18%",
-    "uptimeMonth": "83.09%",
-    "uptimeYear": "93.39%",
+    "uptimeMonth": "83.26%",
+    "uptimeYear": "93.46%",
     "time": 296,
     "timeDay": 237,
     "timeWeek": 261,
@@ -158,7 +157,7 @@
       "2025-07-22": 1361,
       "2025-07-21": 1058,
       "2025-07-20": 436,
-      "2025-07-19": 438
+      "2025-07-19": 361
     }
   },
   {

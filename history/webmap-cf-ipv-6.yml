@@ -1,7 +1,7 @@
 url: https://map.1919801.xyz/maps/world/live/players.json
-status: up
-code: 200
-responseTime: 3804
-lastUpdated: 2025-09-03T20:55:54.739Z
+status: down
+code: 522
+responseTime: 3395
+lastUpdated: 2025-09-03T21:27:29.849Z
 startTime: 2025-05-16T15:12:25.057Z
 generator: Upptime <https://github.com/upptime/upptime>

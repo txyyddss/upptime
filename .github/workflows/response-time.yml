@@ -28,8 +28,8 @@ jobs:
     steps:
       - name: Setup WARP
         run: |
-          sudo su
-          wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh d
+          sudo -i
+          wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && sudo bash menu.sh d
       - name: Checkout
         uses: actions/checkout@v4
         with:

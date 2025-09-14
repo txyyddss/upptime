@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup WARP
-        uses: fscarmen/warp-on-actions@v1.3
+        run: wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh d
       - name: Checkout
         uses: actions/checkout@v4
         with:

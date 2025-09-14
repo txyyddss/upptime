@@ -27,6 +27,8 @@ jobs:
     name: Setup Upptime
     runs-on: ubuntu-latest
     steps:
+      - name: Setup WARP
+        uses: fscarmen/warp-on-actions@v1.0
       - name: Bypass Cloudflare for GitHub Action
         uses: xiaotianxt/bypass-cloudflare-for-github-action@v1.1.1
         with:

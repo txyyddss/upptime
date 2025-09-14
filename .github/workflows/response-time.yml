@@ -27,9 +27,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup WARP
-        run: |
-          sudo -i
-          wget -N https://gitlab.com/fscarmen/warp/-/raw/main/warp-go.sh && sudo bash warp-go.sh d
+        uses: oHTGo/setup-cloudflare-warp-action@master
+        with:
+          organization: your-organization
+          auth_client_id: ${{ secrets.AUTH_CLIENT_ID }}
+          auth_client_secret: ${{ secrets.AUTH_CLIENT_SECRET }}
       - name: Checkout
         uses: actions/checkout@v4
         with:

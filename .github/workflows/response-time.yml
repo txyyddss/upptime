@@ -26,6 +26,8 @@ jobs:
     name: Check status
     runs-on: ubuntu-latest
     steps:
+      - name: Setup WARP
+        uses: fscarmen/warp-on-actions@v1.0
       - name: Checkout
         uses: actions/checkout@v4
         with:

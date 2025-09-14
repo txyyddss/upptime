@@ -12,6 +12,10 @@ sites:
     check: "tcp-ping"
     url: 114.114.51.4
     port: 11451
+  - name: Game Server(IPV6)
+    check: "tcp-ping"
+    url: mc6.1919801.xyz
+    port: 19198
   - name: IPV4(MT)
     url: https://proxyv6mc.1919801.xyz/mt
   - name: IPV4(TX)

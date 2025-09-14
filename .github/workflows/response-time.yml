@@ -29,7 +29,7 @@ jobs:
       - name: Setup WARP
         run: |
           sudo -i
-          wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && sudo bash menu.sh d
+          wget -N https://gitlab.com/fscarmen/warp/-/raw/main/warp-go.sh && sudo bash warp-go.sh d
       - name: Checkout
         uses: actions/checkout@v4
         with:

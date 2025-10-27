@@ -83,19 +83,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "78.92%",
-    "uptimeWeek": "72.90%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "98.22%",
+    "status": "down",
+    "uptime": "98.25%",
+    "uptimeDay": "78.88%",
+    "uptimeWeek": "72.89%",
+    "uptimeMonth": "90.59%",
+    "uptimeYear": "98.25%",
     "time": 2995,
     "timeDay": 3479,
     "timeWeek": 3365,
     "timeMonth": 4154,
     "timeYear": 2995,
     "dailyMinutesDown": {
-      "2025-10-27": 204,
+      "2025-10-27": 205,
       "2025-10-26": 205,
       "2025-10-25": 569,
       "2025-10-24": 565,
@@ -108,7 +108,7 @@
       "2025-10-17": 312,
       "2025-10-15": 53,
       "2025-10-14": 17,
-      "2025-10-13": 518
+      "2025-10-13": 449
     }
   },
   {
@@ -161,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-27": 554,
+      "2025-10-27": 576,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,

@@ -83,11 +83,11 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.13%",
-    "uptimeDay": "58.28%",
-    "uptimeWeek": "60.70%",
-    "uptimeMonth": "89.74%",
+    "uptimeDay": "59.09%",
+    "uptimeWeek": "60.88%",
+    "uptimeMonth": "89.78%",
     "uptimeYear": "98.13%",
     "time": 2942,
     "timeDay": 2067,
@@ -95,7 +95,7 @@
     "timeMonth": 3839,
     "timeYear": 2942,
     "dailyMinutesDown": {
-      "2025-10-30": 138,
+      "2025-10-30": 139,
       "2025-10-29": 633,
       "2025-10-28": 627,
       "2025-10-27": 722,
@@ -103,7 +103,7 @@
       "2025-10-25": 569,
       "2025-10-24": 565,
       "2025-10-23": 657,
-      "2025-10-22": 388
+      "2025-10-22": 371
     }
   },
   {
@@ -113,8 +113,8 @@
     "slug": "game-server-zt",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "73.14%",
-    "uptimeWeek": "73.93%",
+    "uptimeDay": "74.17%",
+    "uptimeWeek": "74.27%",
     "uptimeMonth": "91.19%",
     "uptimeYear": "98.39%",
     "time": 267,
@@ -123,7 +123,7 @@
     "timeMonth": 249,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-10-30": 128,
+      "2025-10-30": 113,
       "2025-10-29": 426,
       "2025-10-28": 445,
       "2025-10-27": 497,
@@ -137,7 +137,7 @@
       "2025-10-17": 291,
       "2025-10-15": 46,
       "2025-10-14": 16,
-      "2025-10-13": 126
+      "2025-10-13": 142
     }
   },
   {
@@ -157,7 +157,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-30": 316,
+      "2025-10-30": 335,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -330,11 +330,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.1919801.xyz.ico",
     "slug": "service-status",
     "status": "up",
-    "uptime": "73.70%",
+    "uptime": "73.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.00%",
-    "uptimeYear": "73.70%",
+    "uptimeYear": "73.71%",
     "time": 175,
     "timeDay": 527,
     "timeWeek": 215,

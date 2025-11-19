@@ -104,19 +104,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "52.91%",
-    "uptimeWeek": "68.74%",
-    "uptimeMonth": "90.05%",
-    "uptimeYear": "98.38%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "52.84%",
+    "uptimeWeek": "68.73%",
+    "uptimeMonth": "90.09%",
+    "uptimeYear": "98.39%",
     "time": 2874,
     "timeDay": 3340,
     "timeWeek": 3369,
     "timeMonth": 2682,
     "timeYear": 2874,
     "dailyMinutesDown": {
-      "2025-11-19": 593,
+      "2025-11-19": 594,
       "2025-11-18": 1020,
       "2025-11-17": 485,
       "2025-11-16": 493,
@@ -126,7 +126,7 @@
       "2025-11-12": 278,
       "2025-11-11": 53,
       "2025-11-10": 637,
-      "2025-11-09": 295
+      "2025-11-09": 279
     }
   },
   {
@@ -134,12 +134,12 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "73.52%",
-    "uptimeWeek": "78.18%",
-    "uptimeMonth": "90.89%",
-    "uptimeYear": "98.52%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "73.49%",
+    "uptimeWeek": "78.17%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "98.53%",
     "time": 277,
     "timeDay": 422,
     "timeWeek": 351,
@@ -159,7 +159,7 @@
       "2025-11-09": 243,
       "2025-11-08": 600,
       "2025-11-07": 372,
-      "2025-11-06": 100
+      "2025-11-06": 80
     }
   },
   {
@@ -179,7 +179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 1287,
+      "2025-11-19": 1294,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,

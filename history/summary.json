@@ -134,7 +134,7 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "down",
+    "status": "up",
     "uptime": "98.48%",
     "uptimeDay": "71.27%",
     "uptimeWeek": "74.57%",
@@ -179,7 +179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1420,
+      "2025-11-20": 1426,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,

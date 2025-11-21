@@ -104,11 +104,11 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "47.21%",
-    "uptimeWeek": "58.60%",
-    "uptimeMonth": "89.48%",
+    "uptimeDay": "49.05%",
+    "uptimeWeek": "58.59%",
+    "uptimeMonth": "89.51%",
     "uptimeYear": "98.31%",
     "time": 2916,
     "timeDay": 6143,
@@ -116,7 +116,7 @@
     "timeMonth": 2828,
     "timeYear": 2916,
     "dailyMinutesDown": {
-      "2025-11-21": 561,
+      "2025-11-21": 562,
       "2025-11-20": 621,
       "2025-11-19": 629,
       "2025-11-18": 1020,
@@ -125,8 +125,7 @@
       "2025-11-15": 281,
       "2025-11-14": 162,
       "2025-11-13": 66,
-      "2025-11-12": 278,
-      "2025-11-11": 18
+      "2025-11-12": 278
     }
   },
   {
@@ -134,12 +133,12 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "62.59%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "62.97%",
     "uptimeWeek": "71.22%",
-    "uptimeMonth": "90.79%",
-    "uptimeYear": "98.52%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "98.53%",
     "time": 278,
     "timeDay": 331,
     "timeWeek": 335,
@@ -159,7 +158,7 @@
       "2025-11-11": 19,
       "2025-11-10": 295,
       "2025-11-09": 243,
-      "2025-11-08": 305
+      "2025-11-08": 281
     }
   },
   {
@@ -179,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-21": 987,
+      "2025-11-21": 1014,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -389,11 +388,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.1919801.xyz.ico",
     "slug": "service-status",
     "status": "up",
-    "uptime": "78.75%",
+    "uptime": "78.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "83.36%",
     "uptimeMonth": "92.73%",
-    "uptimeYear": "78.75%",
+    "uptimeYear": "78.76%",
     "time": 187,
     "timeDay": 315,
     "timeWeek": 237,

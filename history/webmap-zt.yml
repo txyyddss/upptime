@@ -1,7 +1,7 @@
 url: http://114.114.51.4:8123/maps/world/live/players.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-22T11:44:07.744Z
+status: up
+code: 200
+responseTime: 1718
+lastUpdated: 2025-11-22T13:02:24.815Z
 startTime: 2025-05-16T14:06:26.785Z
 generator: Upptime <https://github.com/upptime/upptime>

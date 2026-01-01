@@ -78,7 +78,7 @@
     "uptime": "83.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
-    "uptimeMonth": "25.18%",
+    "uptimeMonth": "25.19%",
     "uptimeYear": "83.45%",
     "time": 12732,
     "timeDay": 229,
@@ -161,19 +161,19 @@
     "url": "http://114.114.51.4:8123/maps/world/live/players.json",
     "icon": "https://icons.duckduckgo.com/ip3/114.114.51.4.ico",
     "slug": "webmap-zt",
-    "status": "up",
-    "uptime": "94.88%",
-    "uptimeDay": "12.37%",
-    "uptimeWeek": "7.30%",
-    "uptimeMonth": "61.34%",
-    "uptimeYear": "94.88%",
+    "status": "down",
+    "uptime": "94.89%",
+    "uptimeDay": "12.65%",
+    "uptimeWeek": "7.36%",
+    "uptimeMonth": "61.44%",
+    "uptimeYear": "94.89%",
     "time": 2904,
     "timeDay": 1260,
     "timeWeek": 1542,
     "timeMonth": 2497,
     "timeYear": 2904,
     "dailyMinutesDown": {
-      "2026-01-01": 407,
+      "2026-01-01": 408,
       "2025-12-31": 1213,
       "2025-12-30": 993,
       "2025-12-29": 1440,
@@ -188,7 +188,7 @@
       "2025-12-20": 854,
       "2025-12-19": 1157,
       "2025-12-18": 860,
-      "2025-12-17": 256
+      "2025-12-17": 209
     }
   },
   {
@@ -196,12 +196,12 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "up",
-    "uptime": "96.76%",
-    "uptimeDay": "31.71%",
-    "uptimeWeek": "27.45%",
-    "uptimeMonth": "75.51%",
-    "uptimeYear": "96.76%",
+    "status": "down",
+    "uptime": "96.77%",
+    "uptimeDay": "31.68%",
+    "uptimeWeek": "27.51%",
+    "uptimeMonth": "75.62%",
+    "uptimeYear": "96.77%",
     "time": 313,
     "timeDay": 532,
     "timeWeek": 465,
@@ -219,7 +219,7 @@
       "2025-12-24": 1440,
       "2025-12-23": 785,
       "2025-12-22": 575,
-      "2025-12-21": 143
+      "2025-12-21": 94
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-01": 472,
+      "2026-01-01": 478,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
@@ -368,7 +368,7 @@
     "timeMonth": 120,
     "timeYear": 1822,
     "dailyMinutesDown": {
-      "2026-01-01": 472,
+      "2026-01-01": 478,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
@@ -556,7 +556,7 @@
     "uptime": "63.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.37%",
+    "uptimeMonth": "27.35%",
     "uptimeYear": "63.39%",
     "time": 211,
     "timeDay": 0,
@@ -564,7 +564,7 @@
     "timeMonth": 377,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-01-01": 472,
+      "2026-01-01": 478,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,

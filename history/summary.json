@@ -83,7 +83,7 @@
     "uptime": "84.39%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "99.42%",
-    "uptimeMonth": "69.72%",
+    "uptimeMonth": "69.74%",
     "uptimeYear": "84.39%",
     "time": 12470,
     "timeDay": 128,
@@ -175,7 +175,7 @@
     "uptime": "91.27%",
     "uptimeDay": "16.56%",
     "uptimeWeek": "2.37%",
-    "uptimeMonth": "30.16%",
+    "uptimeMonth": "30.14%",
     "uptimeYear": "91.27%",
     "time": 2894,
     "timeDay": 3692,
@@ -183,7 +183,7 @@
     "timeMonth": 2432,
     "timeYear": 2894,
     "dailyMinutesDown": {
-      "2026-01-14": 1135,
+      "2026-01-14": 1141,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -214,12 +214,12 @@
     "url": "114.114.51.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-zt",
-    "status": "up",
-    "uptime": "95.08%",
-    "uptimeDay": "36.25%",
-    "uptimeWeek": "5.18%",
-    "uptimeMonth": "60.64%",
-    "uptimeYear": "95.08%",
+    "status": "down",
+    "uptime": "95.10%",
+    "uptimeDay": "36.67%",
+    "uptimeWeek": "5.24%",
+    "uptimeMonth": "60.83%",
+    "uptimeYear": "95.10%",
     "time": 318,
     "timeDay": 316,
     "timeWeek": 316,
@@ -240,7 +240,7 @@
       "2026-01-03": 943,
       "2026-01-02": 943,
       "2026-01-01": 924,
-      "2025-12-31": 705
+      "2025-12-31": 621
     }
   },
   {
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-14": 1373,
+      "2026-01-14": 1380,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -402,7 +402,7 @@
     "timeMonth": 119,
     "timeYear": 1755,
     "dailyMinutesDown": {
-      "2026-01-14": 1373,
+      "2026-01-14": 1380,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -615,7 +615,7 @@
     "timeMonth": 0,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-01-14": 1373,
+      "2026-01-14": 1380,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
